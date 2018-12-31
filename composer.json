@@ -1,0 +1,13 @@
+{
+    "name": "chirag/anonymous",
+    "description": "let's save some papper!",
+    "authors": [
+        {
+            "name": "chudashma chirag",
+            "email": "chirag7004classic@gmail.com"
+        }
+    ],
+    "require": {
+        "ghostff/text-tables-generator": "^1.0"
+    }
+}
